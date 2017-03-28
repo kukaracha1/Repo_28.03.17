@@ -1,0 +1,5 @@
+﻿  FreqLib.cpp
+     Создается библиотека C:\Users\Максим\Desktop\FREQ_TEST\FREQ\frequency_table\Debug\frequency_table.lib и объект C:\Users\Максим\Desktop\FREQ_TEST\FREQ\frequency_table\Debug\frequency_table.exp
+frequency_table.exp : warning LNK4070: директива /OUT:freqlib.dll в .EXP отличается от имени выходного файла "C:\Users\Максим\Desktop\FREQ_TEST\FREQ\frequency_table\Debug\frequency_table.dll"; директива игнорируется
+  frequency_table.vcxproj -> C:\Users\Максим\Desktop\FREQ_TEST\FREQ\frequency_table\Debug\frequency_table.dll
+  frequency_table.vcxproj -> C:\Users\Максим\Desktop\FREQ_TEST\FREQ\frequency_table\Debug\frequency_table.pdb (Full PDB)

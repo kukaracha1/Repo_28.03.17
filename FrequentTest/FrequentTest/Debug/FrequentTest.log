@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\program files\microsoft visual studio 14.0\vc\include\func.h(71): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+e:\program files\microsoft visual studio 14.0\vc\include\func.h(109): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  FrequentTest.vcxproj -> E:\Program Files\GitHub Repositories\Repo_28.03.17\FrequentTest\Debug\FrequentTest.exe
+  FrequentTest.vcxproj -> E:\Program Files\GitHub Repositories\Repo_28.03.17\FrequentTest\Debug\FrequentTest.pdb (Full PDB)

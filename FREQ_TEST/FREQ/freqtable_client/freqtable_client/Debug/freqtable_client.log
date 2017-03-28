@@ -1,0 +1,5 @@
+﻿  freq_client.cpp
+e:\program files\microsoft visual studio 14.0\vc\include\func.h(63): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+e:\program files\microsoft visual studio 14.0\vc\include\func.h(101): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  freqtable_client.vcxproj -> C:\Users\Максим\Desktop\FREQ_TEST\FREQ\freqtable_client\Debug\freqtable_client.exe
+  freqtable_client.vcxproj -> C:\Users\Максим\Desktop\FREQ_TEST\FREQ\freqtable_client\Debug\freqtable_client.pdb (Full PDB)
